@@ -24,4 +24,4 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 
 jljvs's version
 
-![test status](https://github.com/jljvs/learn-cicd-starter/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![test status](https://github.com/jljvs/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
